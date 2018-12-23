@@ -6,12 +6,12 @@ the internet.
 ## Electronic components (sensor)
 | component | manufacture | matters               |
 |-----------|-------------|-----------------------|
-| DHT011    | Aosong      | temperature, humidity |
+| DHT11     | Aosong      | temperature, humidity |
 | SDS021    | Nova        | PM2.5, PM10           |
 | CCS811    | ams         | TVOC, eCO2            |
 
 ## Sensor installation
-### DHT011
+### DHT11
 1. Sensor to Raspberry Pi connection
     ```
     GND  <-> GND
